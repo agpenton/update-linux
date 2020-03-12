@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'ohai'
-gem 'chefspec-ohai'
+gem "ohai"
+gem "chefspec-ohai"
